@@ -34,20 +34,17 @@ Follow the steps below to clone this GitHub repository and run the project on yo
 Navigate to the folder where you want to store this project:
 ```bash
 cd path/to/your/projects/folder
-exit
 ```
 
 ### Step 4: Clone the Repository
 ```bash
 git clone https://github.com/your-username/library-management-system.git
-exit
 ```
 
 ### Step 5: Run the Project
 ```bash
 cd library-management-system/src
 python main.py
-exit
 ```
 
 
