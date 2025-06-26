@@ -13,5 +13,11 @@ It is a beginner-friendly Python project that demonstrates understanding of **cl
 - **Python 3**
 - **Object-Oriented Programming**
 - **Command-Line Interface (CLI)**
-- charishma
+## 🚀 How to Run the Project
+
+### 📥 Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/your-username/library-management-system.git
+cd library-management-system
 
