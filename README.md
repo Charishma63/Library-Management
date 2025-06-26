@@ -29,12 +29,12 @@ Follow the steps below to clone this GitHub repository and run the project on yo
 2. Click the green **`<> Code`** button  
 3. Copy the HTTPS link
 
-### Step 4: Clone the Repository
+### Step 3: Clone the Repository
 ```bash
-git clone https://github.com/Charishma63/library-management-system.git
+git clone https://github.com/Charishma63/Library-Management-System.git
 ```
 
-### Step 5: Run the Project
+### Step 4: Run the Project
 ```bash
 cd library-management-system/src
 python main.py
