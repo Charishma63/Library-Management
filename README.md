@@ -29,16 +29,9 @@ Follow the steps below to clone this GitHub repository and run the project on yo
 2. Click the green **`<> Code`** button  
 3. Copy the HTTPS link
 
-### Step 3: Open Terminal or Command Prompt
-
-Navigate to the folder where you want to store this project:
-```bash
-cd path/to/your/projects/folder
-```
-
 ### Step 4: Clone the Repository
 ```bash
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/Charishma63/library-management-system.git
 ```
 
 ### Step 5: Run the Project
