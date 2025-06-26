@@ -20,4 +20,56 @@ It is a beginner-friendly Python project that demonstrates understanding of **cl
 ```bash
 git clone https://github.com/your-username/library-management-system.git
 cd library-management-system
+## How to Clone and Run the Project
+
+Follow the steps below to clone this GitHub repository and run the project on your system.
+
+---
+
+### ✅ Step 1: Install Git (if not already installed)
+
+- Download Git from [https://git-scm.com/](https://git-scm.com/)
+- Install it and **restart your terminal / command prompt**
+
+---
+
+### ✅ Step 2: Copy the Repository Link
+
+1. Go to the GitHub page of this repository  
+2. Click the green **`<> Code`** button  
+3. Copy the HTTPS link  
+   Example:
+
+https://github.com/your-username/library-management-system.git
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ Step 3: Open Terminal or Command Prompt
+
+Navigate to the folder where you want to store this project:
+
+```bash
+cd path/to/your/projects/folder
+💡 You can also right-click in the folder and choose “Open in Terminal”
+
+✅ Step 4: Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/library-management-system.git
+This creates a new folder named library-management-system with the project files inside it.
+
+✅ Step 5: Run the Project
+Navigate into the project directory:
+
+bash
+Copy
+Edit
+cd library-management-system/src
+python main.py
+You should now see the interactive menu in your terminal.
 
