@@ -47,4 +47,14 @@ cd library-management-system/src
 python main.py
 ```
 
+## Sample Output
+Welcome to the Library Management System!
+
+1. List Books
+2. Borrow Book
+3. Return Book
+4. Exit
+Enter choice: 
+
+
 
